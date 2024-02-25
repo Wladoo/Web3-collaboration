@@ -1,0 +1,20 @@
+repo_name: Wladoo/Web3-collaboration
+report_id: 36386adfadbe000259d21e97e5da52c3
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-25T10:24:53+00:00'
+requested_by: alxs
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Wladoo/Web3-collaboration
+  detection_source: Repo Metadata
